@@ -1,0 +1,407 @@
+[
+  {
+    "OLIMPIADA": "OBA",
+    "PERGUNTA": "Quantos planetas têm a letra “A” em qualquer lugar do nome? Assinale a única alternativa correta.",
+    "ALTERNATIVA1": "a) 1",
+    "ALTERNATIVA2": "b) 2",
+    "ALTERNATIVA3": "c) 3",
+    "ALTERNATIVA4": "d) 4",
+    "CORRETA": "D"
+  },
+  {
+    "OLIMPIADA": "OBA",
+    "PERGUNTA": "Quantos planetas têm a letra “O” em qualquer lugar do nome? Assinale a única alternativa correta.",
+    "ALTERNATIVA1": "a) 1",
+    "ALTERNATIVA2": "b) 2",
+    "ALTERNATIVA3": "c) 3",
+    "ALTERNATIVA4": "d) 4",
+    "CORRETA": "D"
+  },
+  {
+    "OLIMPIADA": "OBA",
+    "PERGUNTA": "Entre 1969 e 1972 doze Astronautas caminharam sobre um único astro. Assinale o nome deste astro. ",
+    "ALTERNATIVA1": "a) Lua",
+    "ALTERNATIVA2": "b) Marte",
+    "ALTERNATIVA3": "c) Vênus",
+    "ALTERNATIVA4": "d) Sol",
+    "CORRETA": "A"
+  },
+  {
+    "OLIMPIADA": "OBA",
+    "PERGUNTA": " Até 2020 veículos robotizados rodaram sobre a superfície de um único planeta. Assinale a alternativa correta.",
+    "ALTERNATIVA1": "a) Urano",
+    "ALTERNATIVA2": "b) Marte",
+    "ALTERNATIVA3": "c) Vênus",
+    "ALTERNATIVA4": "d) Júpiter",
+    "CORRETA": "B"
+  },
+  {
+    "OLIMPIADA": "OBA",
+    "PERGUNTA": " Qual planeta tem somente 5 letras em seu nome e reflete muito a luz vermelha? Assinale a única alternativa correta.",
+    "ALTERNATIVA1": "a) Marte",
+    "ALTERNATIVA2": "b) Vênus",
+    "ALTERNATIVA3": "c) Plutão",
+    "ALTERNATIVA4": "d) Terra",
+    "CORRETA": "B"
+  },
+  {
+    "OLIMPIADA": "OBA",
+    "PERGUNTA": " Assinale a alternativa que contém os nomes dos quatro planetas mais próximos ao Sol, na ordem correta de afastamento ao Sol.",
+    "ALTERNATIVA1": "a) Vênus, Terra, Marte, Plutão.",
+    "ALTERNATIVA2": "b) Vênus, Mercúrio, Terra, Júpiter.",
+    "ALTERNATIVA3": "c) Mercúrio, Terra, Vênus, Marte.",
+    "ALTERNATIVA4": "d) Mercúrio, Vênus, Terra, Marte. ",
+    "CORRETA": "D"
+  },
+  {
+    "OLIMPIADA": "OBA",
+    "PERGUNTA": "Assinale a alternativa que contém a soma de todas as luas dos planetas anões, mais as luas dos três planetas mais próximos ao Sol.",
+    "ALTERNATIVA1": "a) 13",
+    "ALTERNATIVA2": "b) 10",
+    "ALTERNATIVA3": "c) 8",
+    "ALTERNATIVA4": "d) 6",
+    "CORRETA": "B"
+  },
+  {
+    "OLIMPIADA": "OBI",
+    "PERGUNTA": "Paulo tem 5 filhos que tocam piano, 4 tocam violão e trê tocam flauta. Sabendo que cada filho toca exatamente dois intrumentos, quanto filhos Paulo tem?",
+    "ALTERNATIVA1": "a) 5",
+    "ALTERNATIVA2": "b) 6",
+    "ALTERNATIVA3": "c) 7",
+    "ALTERNATIVA4": "d) 8",
+    "CORRETA": "B"
+  },
+  {
+    "OLIMPIADA": "OBI",
+    "PERGUNTA": "A afirmação Todos os alunos de fulano foram aprovados no concurso é verdadeira. Então é nescessariamente verdade:",
+    "ALTERNATIVA1": "a) Fulano não foi aprovado no concurso",
+    "ALTERNATIVA2": "b) se Rob não é aluno de fulano, então ele não foi aprovado",
+    "ALTERNATIVA3": "c) Fulano foi aprovado no concurso",
+    "ALTERNATIVA4": "d) Se carlos não foi aprovado. Então ele não é aluno de fulano",
+    "CORRETA": "D"
+  },
+  {
+    "OLIMPIADA": "OBI",
+    "PERGUNTA": "O que é um algoritimo?",
+    "ALTERNATIVA1": "a) São ações ditas para um computador para ele executar",
+    "ALTERNATIVA2": "b) É a solução de um problema",
+    "ALTERNATIVA3": "c) Uma sequência de passos, que forma um conjunto de instruções para chegar a um objetivo",
+    "ALTERNATIVA4": "d) Realização de um sistema de validação ",
+    "CORRETA": "C"
+  },
+  {
+    "OLIMPIADA": "OBI",
+    "PERGUNTA": "Definição de lógica  na area de tecnologia:",
+    "ALTERNATIVA1": "a) Organização e planejamento de instrução, afim de implementar em um software",
+    "ALTERNATIVA2": "b) Encadear uma seria de instrução",
+    "ALTERNATIVA3": "c) maneira rigorosa de raciocinar",
+    "ALTERNATIVA4": "d) encadeamento de alguma coisa com regras ",
+    "CORRETA": "A"
+  },
+  {
+    "OLIMPIADA": "OBI",
+    "PERGUNTA": "O que significa concatenar?",
+    "ALTERNATIVA1": "a) Um conjunto de caracteres",
+    "ALTERNATIVA2": "b) configurar o tipo de uma variavel",
+    "ALTERNATIVA3": "c) dividir duas variaveis",
+    "ALTERNATIVA4": "d) unir dados de modo lógico ou manter conexão entre eles ",
+    "CORRETA": "D"
+  },
+  {
+    "OLIMPIADA": "OBI",
+    "PERGUNTA": "O que são arrays?",
+    "ALTERNATIVA1": "a) estrutura de dados, que possibilita armazenar um grupo de dados do mesmo tipo",
+    "ALTERNATIVA2": "b) variaveis para armazenar numeros inteiros",
+    "ALTERNATIVA3": "c) trata-se de uma forma de planejar dados",
+    "ALTERNATIVA4": "d) Forma de organizar RAM do processo utilizado ",
+    "CORRETA": "A"
+  },
+  {
+    "OLIMPIADA": "OBI",
+    "PERGUNTA": "Onde as variaveis ficam armazenada?",
+    "ALTERNATIVA1": "a) No programa/software",
+    "ALTERNATIVA2": "b) Na memoria RAM",
+    "ALTERNATIVA3": "c) No banco de dados",
+    "ALTERNATIVA4": "d) Todas as alternativas anteriores ",
+    "CORRETA": "B"
+  },
+  {
+  	"OLIMPIADA": "OBMEP",
+    "PERGUNTA": "Alvimar pagou uma compra de 𝑅$ 3,50 com uma nota de 𝑅$ 5,00 e recebeu o troco em moedas de 𝑅$ 0,25. Quantas moedas ele recebeu?",
+    "ALTERNATIVA1": "a) 4",
+    "ALTERNATIVA2": "b) 5",
+    "ALTERNATIVA3": "c) 6",
+    "ALTERNATIVA4": "d) 7",
+    "CORRETA": "C"
+  },
+  {
+  	"OLIMPIADA": "OBMEP",
+ 	  "PERGUNTA": "Uma formiguinha andou sobre a borda de uma régua, da marca de 6 𝑐𝑚 até a marca de 20 𝑐𝑚. Ela parou para descansar na metade do caminho. Em que marca ela parou?",
+  	"ALTERNATIVA1": "a) 11 cm",
+  	"ALTERNATIVA2": "b) 12 cm",
+ 	  "ALTERNATIVA3": "c) 13 cm",
+ 	  "ALTERNATIVA4": "d) 14 cm ",
+  	"CORRETA": "C"
+  },
+	{
+    "OLIMPIADA": "OBMEP",
+    "PERGUNTA": "Benjamim passava pela praça de Quixajuba, quando viu o relógio da praça pelo espelho da bicicleta, como na figura. Que horas o relógio estava marcando?",
+    "ALTERNATIVA1": "a) 5h 15min",
+    "ALTERNATIVA2": "b) 5h 45min",
+    "ALTERNATIVA3": "c) 6h 15min",
+    "ALTERNATIVA4": "d) 6h 45min ",
+    "CORRETA": "A"
+  },
+  {
+    "OLIMPIADA": "OBMEP",
+    "PERGUNTA": "A escola de Paraqui organizou uma Olimpíada de Matemática para seus 250 alunos e premiou com medalhas os 8% que obtiveram as notas mais altas. Quantas medalhas foram distribuídas?",
+    "ALTERNATIVA1": "a) 8",
+    "ALTERNATIVA2": "b) 20",
+    "ALTERNATIVA3": "c) 14",
+    "ALTERNATIVA4": "d) 17 ",
+    "CORRETA": "B"
+  },
+  {	
+    "OLIMPIADA": "OBMEP",
+    "PERGUNTA": "Mariana escreveu as decomposições em fatores primos dos números naturais de 2 a 100:   2, 3, 2 × 2 , 5, 2 × 3 , . . . , 3 × 3 × 11 , 2 × 2 × 5 × 5. Quantas vezes ela escreveu o algarismo 2?",
+    "ALTERNATIVA1": "a) 188",
+    "ALTERNATIVA2": "b) 152",
+    "ALTERNATIVA3": "c) 99",
+    "ALTERNATIVA4": "d) 104",
+    "CORRETA": "D"
+  },
+  {
+  	"OLIMPIADA": "OBMEP",
+    "PERGUNTA": "O símbolo 𝑛! é usado para representar o produto dos números naturais de 1 a 𝑛, isto é, 𝑛! = 𝑛 ⋅ (𝑛 − 1) … 2 ⋅ 1. Por exemplo, 4! = 4 ⋅ 3 ⋅ 2 ⋅ 1. Se 𝑛! = 2^15⋅ 3^6 ⋅ 5^3 ⋅ 7^2 ⋅ 11 ⋅ 13, qual é o valor de 𝑛?",
+    "ALTERNATIVA1": "a) 13",
+    "ALTERNATIVA2": "b) 14",
+    "ALTERNATIVA3": "c) 15",
+    "ALTERNATIVA4": "d) 16 ",
+    "CORRETA": "D"
+  },
+  {
+ 	  "OLIMPIADA": "OBMEP",
+    "PERGUNTA": "O pai de Carolina mediu o comprimento da mesa da sala com sua mão e contou 8 palmos. Ela também mediu a mesa do mesmo modo e contou 11 palmos. Qual é o tamanho do palmo de Carolina,se o palmo de seu pai mede 22 centímetros?",
+    "ALTERNATIVA1": "a) 16 cm",
+    "ALTERNATIVA2": "b) 15 cm",
+    "ALTERNATIVA3": "c) 14 cm",
+    "ALTERNATIVA4": "d) 13 cm",
+    "CORRETA": "A"
+  },
+  {
+ 	  "OLIMPIADA": "OBQ",
+    "PERGUNTA": "Uma análise química mostrou que um pré-hormônio produzido no fígado é composto apenas de átomos de Carbono, Hidrogênio e Oxigênio. A análise também constatou que em 30 g dessa molécula tem-se 3,3 g de Hidrogênio e 2,4 g de Oxigênio. Com base na análise, a fórmula molecular deste composto será:",
+    "ALTERNATIVA1": "a) C27H44O2",
+    "ALTERNATIVA2": "b) C13H22O2",
+    "ALTERNATIVA3": "c) C26H44O2",
+    "ALTERNATIVA4": "d) C27H44Ocm",
+    "CORRETA": "A"
+  },
+  {
+ 	  "OLIMPIADA": "OBQ",
+    "PERGUNTA": "Nos exemplos relatados a seguir, marque 1 para transformações físicas e 2 para transformações químicas. Assinale a alternativa que contém a sequência correta ( ) Deformação da massa de modelar; ( ) O cozimento de um ovo; ( ) Fundição de uma barra de alumínio; ( ) A combustão do óleo diesel; ( ) Enferrujamento de palha de aço; ( ) Queima do palito de fósforo.",
+    "ALTERNATIVA1": "a) 2, 2, 1, 2, 2, 1.",
+    "ALTERNATIVA2": "b) 1, 2, 1, 2, 2, 1.",
+    "ALTERNATIVA3": "c)  1, 2, 1, 2, 2, 2",
+    "ALTERNATIVA4": "d) 1, 2, 1, 2, 1, 2.",
+    "CORRETA": "C"
+  },
+  {
+ 	  "OLIMPIADA": "OBQ",
+    "PERGUNTA": "Assinale a opção verdadeira depois de determinar o número atômico e o número de massa dos átomos hipotéticos A e B, que são isóbaros e apresentam a seguinte representação !!!! � !!!! e !!!!� !!!!assinale a opção verdadeira",
+    "ALTERNATIVA1": "a) O elemento químico A é um halogênio",
+    "ALTERNATIVA2": "b) O número de nêutrons de A é igual a 22.",
+    "ALTERNATIVA3": "c) O elemento químico B é um metal alcalino",
+    "ALTERNATIVA4": "d) O número de elétrons de B é igual a 18.",
+    "CORRETA": "B"
+  },
+  {
+ 	  "OLIMPIADA": "OBQ",
+    "PERGUNTA": "O manuseio correto das vidrarias influencia diretamente na confiabilidade dos resultados dos experimentos realizados, além de evitar acidentes e fazer parte das boas práticas no laboratório. Com relação ao uso correto das vidrarias de laboratório, assinale a alternativa que apresenta a afirmação correta:",
+    "ALTERNATIVA1": "a) O balão de fundo redondo é utilizado no preparo de soluções",
+    "ALTERNATIVA2": "b) A pipeta volumétrica é utilizada para transferir volumes variados de líquidos com precisão.",
+    "ALTERNATIVA3": "c) Funil de bromo é utilizado para separação de misturas líquidas heterogêneas quando os componentes apresentam densidades diferentes.",
+    "ALTERNATIVA4": "d) A proveta é utilizada em procedimentos de titulação para determinação da concentração de analitos desconhecidos.",
+    "CORRETA": "C"
+  },
+  {
+ 	  "OLIMPIADA": "OBQ",
+    "PERGUNTA": "Um frasco contém 500 mL de água, a este recipiente são adicionados 5g de óxido de silício e 100 mL de etanol (Álcool Comercial), após as adições o frasco é agitado e adiciona-se dois cubos de gelo. Sobre o sistema é correto afirmar que:",
+    "ALTERNATIVA1": "a) o sistema contém 4 fases e 3 componentes.",
+    "ALTERNATIVA2": "b) o sistema contém 2 fases e 3 componentes",
+    "ALTERNATIVA3": "c) o sistema contém 3 fases e 4 componentes.",
+    "ALTERNATIVA4": "d) o sistema contém 3 fases e 3 componentes.",
+    "CORRETA": "D"
+  },
+  {
+ 	  "OLIMPIADA": "OBQ",
+    "PERGUNTA": "Considere as seguintes afirmações sobre átomos hipotéticos: A, B e C I- Seus números atômicos são: 4x + 2, 5x + 1 e 3x + 9, respectivamente. II- O íon B2- é isoeletrônico do átomo C. III- O número de nêutrons de C é igual ao número de neutrôns de B + 2. IV- A massa de B é igual 62 – 3x. Com base nas afirmativas I, II, III e IV é correto afirmar que:",
+    "ALTERNATIVA1": "a) O átomo A é um gás nobre.",
+    "ALTERNATIVA2": "b) O átomo B é um metal.",
+    "ALTERNATIVA3": "c) O íon B2- apresenta 22 elétrons.",
+    "ALTERNATIVA4": "d) A soma do número de prótons dos átomos A, B e C é igual a 48.",
+    "CORRETA": "D"
+  },
+  {
+ 	  "OLIMPIADA": "ONC",
+    "PERGUNTA": "O interior da Estação Espacial Internacional (EEI) é um laboratório fantástico com possibilidade de fazer experiências de longa duração com gravidade aparente nula. O vídeo abaixo mostra movimentos que não seriam possíveis aqui na superfície da Terra, onde os corpos livres são obrigados a se aproximar do solo. Como a influência do ar é irrelevante para os movimentos mostrados, dentro da EEI é possível simular a real tendência de qualquer corpo em movimento. Essa tendência foi descrita pelo inglês Isaac Newton, tornando-se conhecida como uma de suas leis. Qual o nome dessa lei?",
+    "ALTERNATIVA1": "a)  Lei da inércia.",
+    "ALTERNATIVA2": "b) Lei da ação e reação. ",
+    "ALTERNATIVA3": "c) Lei fundamental da mecânica.",
+    "ALTERNATIVA4": "d) Lei da Gravitação Universal.",
+    "CORRETA": "A"
+  },
+   {
+    "OLIMPIADA": "ONC",
+    "PERGUNTA": "Entre 1969 e 1972, alguns astronautas estiveram na Lua. Seus trajes tinham mais de 80 kg, poislevavam tanque de oxigênio, água e outros equipamentos e lá eles podiam saltar e chegar mais alto do que chegariam se estivessem com estes mesmos trajes na Terra. Por quê? ",
+    "ALTERNATIVA1": "a) Porque na Lua não tem gravidade.",
+    "ALTERNATIVA2": "b) Porque na Lua não tem atmosfera. ",
+    "ALTERNATIVA3": "c) Porque o peso deles é menor na Lua.",
+    "ALTERNATIVA4": "d) Porque suas botas tinham molas.",
+    "CORRETA": "C"
+  },
+   {
+    "OLIMPIADA": "ONC",
+    "PERGUNTA": "Em 1610, Galileo Galilei (1564-1642) apontou para o céu um telescópio pequeno e simples, mas que provocou impactos muito maiores sobre a relação humana com o Universo. Suas primeiras observações da superfície lunar, das manchas solares e a sua descoberta das quatro grandes luas de Júpiter, contribuíram para lançar as bases da ciência moderna e fortalecer o heliocentrismo. Galileu viveu no período conhecido como o Renascimento",
+    "ALTERNATIVA1": "a) O humanismo e o predomínio do homem sobre a natureza e sobre o poder da Igreja. ",
+    "ALTERNATIVA2": "b) O racionalismo com a valorização do empirismo e a contestação religiosa.",
+    "ALTERNATIVA3": "c) O iluminismo e a multiplicação de ideias de liberdade ao pensamento científico. ",
+    "ALTERNATIVA4": "d) A valorização da ciência medieval e a superação do individualismo.",
+    "CORRETA": "B"
+  },
+  {
+    "OLIMPIADA": "ONC",
+    "PERGUNTA": "Em 07 de junho de 2020, manifestantes que participavam de um ato antirracista na cidade de Bristol (Inglaterra), que se seguiu aos protestos causados pela morte de George Floyd , derrubaram a estátua do traficante de escravos Edward Colston (1636-1721) e depois a jogaram em um rio. Estima-se que Colston, cuja estátua foi erguida em 1895, tenha transportado 84 mil homens, mulheres e crianças negociados como escravos na África ocidental. uma explicação para o ocorrido é:",
+    "ALTERNATIVA1": "a) a luta contra o racismo surgiu nos últimos anos e não está estabelecida. ",
+    "ALTERNATIVA2": "b) aquela homenagem da cidade à Colston foi vista como insuficiente.",
+    "ALTERNATIVA3": "c) os monumentos do passado não fazem sentido nos tempos presentes.",
+    "ALTERNATIVA4": "d) a celebração de um escravista em espaço público foi considerada ofensiva.",
+    "CORRETA": "D"
+  },
+  {
+    "OLIMPIADA": "ONC",
+    "PERGUNTA": "A Lua, como sabemos, apresenta fases, ou seja, vista da Terra, sua aparência vai mudando ao longo dos dias, A que se deve esta mudança da porção visível iluminada do satélite a cada mês? ",
+    "ALTERNATIVA1": "a) Aos movimentos dos oceanos da Terra.",
+    "ALTERNATIVA2": "b) À atração gravitacional do Sol. ",
+    "ALTERNATIVA3": "c) À translação da Lua em torno da Terra",
+    "ALTERNATIVA4": "d) À sombra da Terra na sua superfície.",
+    "CORRETA": "C"
+  },
+  {
+    "OLIMPIADA": "ONC",
+    "PERGUNTA": "Sobre o Sputnik 1, assinale a alternativa correta. ",
+    "ALTERNATIVA1": "a) Ele foi lançado pela antiga União das Repúblicas Socialistas Soviéticas (URSS).",
+    "ALTERNATIVA2": "b) Ele ainda está em orbitando a Terra. ",
+    "ALTERNATIVA3": "c) Ele foi lançado pelos Estados Unidos da América (EUA).",
+    "ALTERNATIVA4": "d) Depois de várias órbitas em torno da Terra ele retornou à sua base em segurança.",
+    "CORRETA": "A"
+  },
+  {
+    "OLIMPIADA": "ONC",
+    "PERGUNTA": "A Voyager 1 é uma sonda espacial estadunidense lançada ao espaço em 5 de setembro de 1977 para estudar Júpiter e Saturno e seguindo, posteriormente, para o espaço interestelar. Atualmente ela é o objeto fabricado pelo homem mais distante de nós. Dizer que a Voyager 1 está a 20 horas-luz significa que: ",
+    "ALTERNATIVA1": "a) a NASA recebe um sinal de rádio da sonda sempre às 20h.",
+    "ALTERNATIVA2": "b) a ascensão reta da sua localização no céu vale 20h. ",
+    "ALTERNATIVA3": "c) a sonda só tem mais 20 horas de bateria para continuar acesa.",
+    "ALTERNATIVA4": "d) um sinal de rádio emitido por ela demora 20 horas para chegar à Terra.",
+    "CORRETA": "D"
+  },
+  {
+    "OLIMPIADA": "OBF",
+    "PERGUNTA": "Considerando que o conjunto formado pelo satélite e pelo foguete lançador possua massa de 1,0 x 103 kg e seja impulsionado por uma força de 5,0 x 107 N, sendo o sentido de lançamento desse foguete perpendicular ao solo, podemos afirmar acertadamente que a aceleração transmitida ao conjunto pela força resultante, nesse momento inicial de decolagem, vale aproximadamente: (desconsidere a resistência do ar e adote g = 10 m/s2 ).",
+    "ALTERNATIVA1": "a) 50,0 km/s2",
+    "ALTERNATIVA2": "b) 29,0 km/s2",
+    "ALTERNATIVA3": "c) 5,0 km/s2",
+    "ALTERNATIVA4": "d) 40,0 km/s2",
+    "CORRETA": "A"
+  },	
+  {
+    "OLIMPIADA": "OBF",
+    "PERGUNTA": "Ainda sobre a questão anterior podemos afirmar acertadamente que o trabalho realizado, em Joules, pela força resultante nos primeiros 2,0 km de sua decolagem, vale aproximadamente: (considere g = 10 m/s2 e despreze todas as resistências existentes e a perda de massa devido à queima de combustível).",
+    "ALTERNATIVA1": "a) 2,0 x 1010 ",
+    "ALTERNATIVA2": "b) 4,0 x 1010 ",
+    "ALTERNATIVA3": "c) 10,0 x 1010 ",
+    "ALTERNATIVA4": "d) 8,0 x 107",
+    "CORRETA": "C"
+  },
+  {
+    "OLIMPIADA": "OBF",
+    "PERGUNTA": "Um bloco de madeira com massa de 1,0 kg, deslizando sobre uma mesa de madeira plana e horizontal, variou sua quantidade de movimento de 0,40 N.s, durante 0,20 s, devido unicamente a força de atrito entre ele e a superfície.",
+    "ALTERNATIVA1": "a) 0,4",
+    "ALTERNATIVA2": "b) 0,2",
+    "ALTERNATIVA3": "c) 0,1",
+    "ALTERNATIVA4": "d) 0,5",
+    "CORRETA": "B"
+  },	
+  {
+    "OLIMPIADA": "OBF",
+    "PERGUNTA": "Um corpo com 30,0 N de peso repousa sobre uma superfície lisa e horizontal. Em dado instante, age sobre ele uma única força constante, com direção paralela à superfície. Após 1,5 s de ação da força, o corpo apresenta uma velocidade de 18,0 m/s. Adotando g = 10 m/s2 , qual a intensidade dessa força, em Newtons:",
+    "ALTERNATIVA1": "a) 27,0",
+    "ALTERNATIVA2": "b) 18,0",
+    "ALTERNATIVA3": "c) 9,0",
+    "ALTERNATIVA4": "d) 36,0",
+    "CORRETA": "D"
+  },
+  {
+    "OLIMPIADA": "ONHB",
+    "PERGUNTA": "Considerando caracteristicas do segundo regime, é INCORRETO afirmar que:",
+    "ALTERNATIVA1": "a) a economia foi fortemente marcada pela atividade comercial",
+    "ALTERNATIVA2": "b) A expansão maritima provocou grande migração, e gerou despovoamente europeu",
+    "ALTERNATIVA3": "c) a politica era fundamentada no absolutismo monarquico",
+    "ALTERNATIVA4": "d) a colonização, ajudou a expandir a cultura europeia",
+    "CORRETA": "B"
+  },
+  {
+    "OLIMPIADA": "ONHB",
+    "PERGUNTA": "Qual é a forma de governo adotada nos dias de hoje no Brasil?",
+    "ALTERNATIVA1": "a) Monarquia",
+    "ALTERNATIVA2": "b) Republica",
+    "ALTERNATIVA3": "c) Regime militar",
+    "ALTERNATIVA4": "d) Parlamento",
+    "CORRETA": "B"
+  },
+  {
+    "OLIMPIADA": "ONHB",
+    "PERGUNTA": "Qual o nome do processo em que corpos de faraós eram submetidos após a morte?",
+    "ALTERNATIVA1": "a) Sepultamento",
+    "ALTERNATIVA2": "b) Enterro",
+    "ALTERNATIVA3": "c) Mumificação",
+    "ALTERNATIVA4": "d) Meditação",
+    "CORRETA": "C"
+  },
+  {
+    "OLIMPIADA": "ONHB",
+    "PERGUNTA": "É correto afirmar que tiradentes foi:",
+    "ALTERNATIVA1": "a) Lider da guerra dos Canudos",
+    "ALTERNATIVA2": "b) Lider da conjuração ",
+    "ALTERNATIVA3": "c) Lider da inconfidência mineira",
+    "ALTERNATIVA4": "d) Lider da guerra dos Macates",
+    "CORRETA": "C"
+  },
+   {
+    "OLIMPIADA": "ONHB",
+    "PERGUNTA": "Na mitologia grega quem é considerado o deus dos deuses?",
+    "ALTERNATIVA1": "a) Zeus",
+    "ALTERNATIVA2": "b) Apolo",
+    "ALTERNATIVA3": "c) Dionisio",
+    "ALTERNATIVA4": "d) Ares",
+    "CORRETA": "A"
+  },
+  {
+    "OLIMPIADA": "ONHB",
+    "PERGUNTA": "É considerado marco inicial da idade comteporânea:",
+    "ALTERNATIVA1": "a) Revolução Francesa",
+    "ALTERNATIVA2": "b) Revolução industrial",
+    "ALTERNATIVA3": "c) Guerra da independencia do Brasil",
+    "ALTERNATIVA4": "d) 2ª guerra mundial",
+    "CORRETA": "A"
+  },
+  {
+    "OLIMPIADA": "ONHB",
+    "PERGUNTA": "O primeiro presidente do Brasil após o fim da monarquia, foi:",
+    "ALTERNATIVA1": "a) Campos Salles",
+    "ALTERNATIVA2": "b) Afonso Penna",
+    "ALTERNATIVA3": "c) Hermes da Fonseca",
+    "ALTERNATIVA4": "d) Deodoro da Fonseca",
+    "CORRETA": "D"
+  }
+]

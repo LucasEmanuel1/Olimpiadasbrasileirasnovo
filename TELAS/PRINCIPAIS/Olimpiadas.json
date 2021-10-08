@@ -1,0 +1,212 @@
+[
+  {
+    "Nome": "Olimpíada Brasileira de Matemática",
+    "Fundação": 1979,
+    "Sigla": "OBM",
+    "Instituição": "SBM"
+  },
+  {
+    "Nome": "Olímpiada Brasileira de Química",
+    "Fundação": "1986",
+    "Sigla": "OBQ",
+    "Instituição": "Sem informações"
+  },
+  {
+    "Nome": "Olímpiada Brasileira de Astronomia",
+    "Fundação": 1998,
+    "Sigla": "OBA",
+    "Instituição": "SAB"
+  },
+  {
+    "Nome": "Olímpiada Brasileira de Física",
+    "Fundação": 1999,
+    "Sigla": "OBF",
+    "Instituição": "SBF"
+  },
+  {
+    "Nome": "Olímpiada Brasileira de Informática",
+    "Fundação": 1999,
+    "Sigla": "OBI",
+    "Instituição": "SBC"
+  },
+  {
+    "Nome": "Olímpiada Brasileira de Saúde e Meio Ambiente",
+    "Fundação": 2001,
+    "Sigla": "OBSMA",
+    "Instituição": "Fundação Oswaldo Cruz"
+  },
+  {
+    "Nome": "Olímpiada Brasileira de Robótica",
+    "Fundação": 2003,
+    "Sigla": "CBR",
+    "Instituição": "FEI"
+  },
+  {
+    "Nome": "Olímpiada Brasileira de Jovens Físicos",
+    "Fundação": 2004,
+    "Sigla": "IYPT Brasil",
+    "Instituição": "B8 Projetos"
+  },
+  {
+    "Nome": "Olímpiada Brasileira de Matemática das Escolas Públicas",
+    "Fundação": 2005,
+    "Sigla": "OBNEP",
+    "Instituição": "MEC"
+  },
+  {
+    "Nome": "Olímpiada Brasileira de Biologia",
+    "Fundação": 2005,
+    "Sigla": "OBB",
+    "Instituição": "ANBio"
+  },
+  {
+    "Nome": "Desafio Nascional Acadêmico",
+    "Fundação": 2006,
+    "Sigla": "DNA",
+    "Instituição": "ProNEAD"
+  },
+  {
+    "Nome": "Olímpiada Brasileira de Robótica",
+    "Fundação": 2007,
+    "Sigla": "OBR",
+    "Instituição": "SBC"
+  },
+  {
+    "Nome": "Olímpiada Brasileira de Química Junior",
+    "Fundação": 2008,
+    "Sigla": "OBQ JR.",
+    "Instituição": "Sem informações"
+  },
+  {
+    "Nome": "Olímpiada de Geografia - Viagem do Conhecimento",
+    "Fundação": 2008,
+    "Sigla": "SEM INFORMAÇÕES",
+    "Instituição": "Editora Abril"
+  },
+  {
+    "Nome": "Olimpíada Nacional em História do Brasil",
+    "Fundação": 2009,
+    "Sigla": "ONHB",
+    "Instituição": "Unicamp"
+  },
+  {
+    "Nome": "Olimpíada Internacional Júnior de Ciências Brasil",
+    "Fundação": 2009,
+    "Sigla": "IJSO Brasil",
+    "Instituição": "B8 Projetos"
+  },
+  {
+    "Nome": "TJR Torneio Juvenil de Robótica",
+    "Fundação": 2009,
+    "Sigla": "TJR",
+    "Instituição": "Comphaus"
+  },
+  {
+    "Nome": "Olímpiada Brasileira de Física na Escola Pública",
+    "Fundação": 2010,
+    "Sigla": "OBFEP",
+    "Instituição": "OBF"
+  },
+  {
+    "Nome": "Olímpiada Brasileira de Linguística",
+    "Fundação": 2011,
+    "Sigla": "OBL",
+    "Instituição": "Instituto Vertere"
+  },
+  {
+    "Nome": "Olímpiada Brasileira de Agropecuária",
+    "Fundação": 2011,
+    "Sigla": "OBAP",
+    "Instituição": "IF Sul de MInas"
+  },
+  {
+    "Nome": "Olímpiada Brasileira de Ciências",
+    "Fundação": 2016,
+    "Sigla": "ONC",
+    "Instituição": "UFPI"
+  },
+  {
+    "Nome": "Olímpiada Brasileira de Economia",
+    "Fundação": 2017,
+    "Sigla": "OBECON",
+    "Instituição": "Instituto Vertere"
+  },
+  {
+    "Nome": "[IX Olimpíada Brasileira de Neurociências - OBN]",
+    "Fundação": "SEM INFORMAÇÕES",
+    "Sigla": "SEM INFORMAÇÕES",
+    "Instituição": "SEM INFORMAÇÕES"
+  },
+  {
+    "Nome": "IV Olimpíada Brasileira de Cartografia: Ciência e Arte - OBRAC",
+    "Fundação": "SEM INFORMAÇÕES",
+    "Sigla": "SEM INFORMAÇÕES",
+    "Instituição": "SEM INFORMAÇÕES"
+  },
+  {
+    "Nome": "Olimpíada Brasileira de Robótica 2021 - OBR",
+    "Fundação": "SEM INFORMAÇÕES",
+    "Sigla": "SEM INFORMAÇÕES",
+    "Instituição": "SEM INFORMAÇÕES"
+  },
+  {
+    "Nome": "5ª Olimpíada Nacional de Aplicativos - ONDA",
+    "Fundação": "SEM INFORMAÇÕES",
+    "Sigla": "SEM INFORMAÇÕES",
+    "Instituição": "SEM INFORMAÇÕES"
+  },
+  {
+    "Nome": "Olimpíada Brasileira de Soluções Sustentáveis para Água e Energia - OBSSAE",
+    "Fundação": "SEM INFORMAÇÕES",
+    "Sigla": "SEM INFORMAÇÕES",
+    "Instituição": "SEM INFORMAÇÕES"
+  },
+  {
+    "Nome": "3ª Olimpíada Científica Nacional sobre Oceanos e Ambientes Polares",
+    "Fundação": "SEM INFORMAÇÕES",
+    "Sigla": "SEM INFORMAÇÕES",
+    "Instituição": "SEM INFORMAÇÕES"
+  },
+  {
+    "Nome": "Olimpíadas Brasileira de Matemática - OBM",
+    "Fundação": "SEM INFORMAÇÕES",
+    "Sigla": "SEM INFORMAÇÕES",
+    "Instituição": "SEM INFORMAÇÕES"
+  },
+  {
+    "Nome": "IPhCO - Olimpíada Internacional de Física e Cultura - FASE NACIONAL",
+    "Fundação": "SEM INFORMAÇÕES",
+    "Sigla": "SEM INFORMAÇÕES",
+    "Instituição": "SEM INFORMAÇÕES"
+  },
+  {
+    "Nome": "24ª Olimpíada Brasileira de Astronomia e Astronáutica OBA",
+    "Fundação": "SEM INFORMAÇÕES",
+    "Sigla": "SEM INFORMAÇÕES",
+    "Instituição": "SEM INFORMAÇÕES"
+  },
+  {
+    "Nome": "10ª Olimpíada Brasileira de Física das Escolas Públicas - OBFEP",
+    "Fundação": "SEM INFORMAÇÕES",
+    "Sigla": "SEM INFORMAÇÕES",
+    "Instituição": "SEM INFORMAÇÕES"
+  },
+  {
+    "Nome": "11ª Olímpiada Brasileira de Agropecuária - OBAP",
+    "Fundação": "SEM INFORMAÇÕES",
+    "Sigla": "SEM INFORMAÇÕES",
+    "Instituição": "SEM INFORMAÇÕES"
+  },
+  {
+    "Nome": "Olimpíada de Matemática dos Institutos Federais - OMIF",
+    "Fundação": "SEM INFORMAÇÕES",
+    "Sigla": "SEM INFORMAÇÕES",
+    "Instituição": "SEM INFORMAÇÕES"
+  },
+  {
+    "Nome": "Olimpíada Brasileira de Informática 2021 - OBI",
+    "Fundação": "SEM INFORMAÇÕES",
+    "Sigla": "SEM INFORMAÇÕES",
+    "Instituição": "SEM INFORMAÇÕES"
+  }
+]
